@@ -1,3 +1,3 @@
 ## Api com conexão em SQL
 
-estudo prático de uma api restfull feita do 0 com objeto de conexão com banco de dados sql para manipulação de dados
+Estudo prático de uma minimal api, contendo as quatro operações CRUD (Get, Post, Delete, Update), feita do 0 com objeto de conexão com banco de dados SQLITE para manipulação de dados, utilizando a biblioteca EntityFramework.
